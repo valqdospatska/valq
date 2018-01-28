@@ -1,0 +1,2 @@
+# valq
+za uprajnenie
